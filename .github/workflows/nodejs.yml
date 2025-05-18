@@ -44,4 +44,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/computer-cat/yolks:nodejs_${{ matrix.tag }}
+            ghcr.io/computer-catt/yolks:nodejs_${{ matrix.tag }}
